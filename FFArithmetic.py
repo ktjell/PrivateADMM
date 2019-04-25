@@ -122,8 +122,9 @@ def GF(p):
     return IntegerModP
 
 #F = GF(7)#(7979490791)
-#
-#a = F(10)
+##
+#a = F(-0.9)
+#print(a)
 #b = F(10)
 ##
 #print (a+b)
